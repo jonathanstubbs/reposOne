@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2017-02-08T11:39:29" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2017-02-08T11:39:29" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2017-02-08T11:39:29" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2017-02-08T11:39:29" Importance="Diagnostic" Text="ProjectPath = ..\ModelingProject1Lib\ModelingProject1Lib.csproj" />
+  <Message Timestamp="2017-02-08T11:39:29" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-02-08T11:39:29" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-02-08T11:39:29" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-02-08T11:39:29" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-02-08T11:39:29" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'ModelingProject1::Author' -  (Class), 'ModelingProject1::Book' -  (Class), 'ModelingProject1::Car' -  (Class), 'ModelingProject1::Passenger' -  (Class), 'ModelingProject1::House' -  (Class), 'ModelingProject1::Room' -  (Class) " />
+  <Message Timestamp="2017-02-08T11:39:30" Importance="Medium" Text="'ModelingProject1::Author' -  (Class) : success (file created) - C:\Users\Jonathan Stubbs\OneDrive - Accrington &amp; Rossendale College\HNCComputing\u19HNCObjectOrientatedProgramming\testAssociation\ModelingProject1Lib\GeneratedCode\Author.cs" />
+  <Message Timestamp="2017-02-08T11:39:30" Importance="Medium" Text="'ModelingProject1::Book' -  (Class) : success (file created) - C:\Users\Jonathan Stubbs\OneDrive - Accrington &amp; Rossendale College\HNCComputing\u19HNCObjectOrientatedProgramming\testAssociation\ModelingProject1Lib\GeneratedCode\Book.cs" />
+  <Message Timestamp="2017-02-08T11:39:30" Importance="Medium" Text="'ModelingProject1::Car' -  (Class) : success (file created) - C:\Users\Jonathan Stubbs\OneDrive - Accrington &amp; Rossendale College\HNCComputing\u19HNCObjectOrientatedProgramming\testAssociation\ModelingProject1Lib\GeneratedCode\Car.cs" />
+  <Message Timestamp="2017-02-08T11:39:30" Importance="Medium" Text="'ModelingProject1::Passenger' -  (Class) : success (file created) - C:\Users\Jonathan Stubbs\OneDrive - Accrington &amp; Rossendale College\HNCComputing\u19HNCObjectOrientatedProgramming\testAssociation\ModelingProject1Lib\GeneratedCode\Passenger.cs" />
+  <Message Timestamp="2017-02-08T11:39:30" Importance="Medium" Text="'ModelingProject1::House' -  (Class) : success (file created) - C:\Users\Jonathan Stubbs\OneDrive - Accrington &amp; Rossendale College\HNCComputing\u19HNCObjectOrientatedProgramming\testAssociation\ModelingProject1Lib\GeneratedCode\House.cs" />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Medium" Text="'ModelingProject1::Room' -  (Class) : success (file created) - C:\Users\Jonathan Stubbs\OneDrive - Accrington &amp; Rossendale College\HNCComputing\u19HNCObjectOrientatedProgramming\testAssociation\ModelingProject1Lib\GeneratedCode\Room.cs" />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="ProjectPath = ..\ModelingProject1Lib\ModelingProject1Lib.csproj" />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'ModelingProject1::Author' -  (Class), 'ModelingProject1::Book' -  (Class), 'ModelingProject1::Car' -  (Class), 'ModelingProject1::Passenger' -  (Class), 'ModelingProject1::House' -  (Class), 'ModelingProject1::Room' -  (Class) " />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'ModelingProject1::Author' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'ModelingProject1::Book' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'ModelingProject1::Car' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'ModelingProject1::Passenger' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'ModelingProject1::House' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'ModelingProject1::Room' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="The selection included 7 elements which were not bound to a template." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'972a1acc-b798-4fef-bd62-a389960cee64' -  (Comment): no bound template." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'ModelingProject1::Wrote' -  (Association): no bound template." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'7cbbdaef-ff55-44ef-9f8e-d8f9b0b82bd2' -  (Comment): no bound template." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'d8943ecd-cdf5-43ee-86ea-d92777779305' -  (Comment): no bound template." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'ModelingProject1::Can have' -  (Association): no bound template." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'8dca4449-a840-4fc5-88cb-7ead6fd58bce' -  (Comment): no bound template." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="Diagnostic" Text="'ModelingProject1::Has' -  (Association): no bound template." />
+  <Message Timestamp="2017-02-08T11:39:31" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
